@@ -1,0 +1,4 @@
+- 👋 Git user @ChristopherGMA
+- 🌱 I’m currently learning C# and SQL
+- 💞️ I’m looking to collaborate on proyects
+- 📫 How to reach me chistofer1999@gmail.com
